@@ -7,7 +7,7 @@ El menu cuenta con 32 platillos de los cuales tienen 4 categorias internacionale
 
 El platillo más económico en el menu es:
 
-![image](https://github.com/user-attachments/assets/f2e652b9-d88c-4697-9983-e43ea03847db)
+![image](https://github.com/user-attachments/assets/0c2a0504-1474-46ae-b1d0-7a95c4cdb0a8)
 
 Y por otro lado el platillo mas caro del menu es:
 
