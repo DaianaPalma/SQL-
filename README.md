@@ -11,4 +11,6 @@ El platillo más económico en el menu es:
 
 Y por otro lado el platillo mas caro del menu es:
 
-![image](https://github.com/user-attachments/assets/7ce3b68a-39a9-46ce-b297-acbf7b9909e4)
+![image](https://github.com/user-attachments/assets/581feb36-fe28-4cb2-b54a-eb4664579032)
+
+
