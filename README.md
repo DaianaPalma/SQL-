@@ -14,10 +14,16 @@ El platillo más económico en el menu es:
 
 ![image](https://github.com/user-attachments/assets/a4f76d2a-54fb-4d66-9140-28c49105db65)
 
-
 Y por otro lado el platillo mas caro del menu es:
 
 ![image](https://github.com/user-attachments/assets/bacc9988-a805-470b-aca0-1ad508d8a211)
 
+El costo promedio de los platillos del menú es de:
+
+![image](https://github.com/user-attachments/assets/05d4e33a-3c98-4faa-a6df-25d16c8aad27)
+
+En total se han realizado como pedidos únicos:
+
+![image](https://github.com/user-attachments/assets/f9bf4b94-d0d0-4ec8-b7e8-659896d40a6d)
 
 
