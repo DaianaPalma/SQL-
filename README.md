@@ -1,5 +1,8 @@
-# SQL-
-Análisis respecto al caso práctico "Sabores del Mundo"
+# Análisis correspondiente al caso práctico Restaurante "Sabores del Mundo"
+
+# Introducción. 
+
+El famoso "Restaurante del Mundo" fue ignagurado el 16 de marzo del año 2000, por un grupo de 4 chefs que deseaban juntar en un mismo lugar, famosos platillos de diferentes lugares del mundo, este resulto ser un éxito, sin embargo, se requiere un análisis ya que el cierre de ventas del año 2023 se vio un poco afectado, pues no se tuvieron los comensales y ventas esperadas, adicional, las promociones que se lanzaron no resultaron ser atractivas.
 
 El restaurante "Sabores del Mundo" destaca entre los más afamados lugurares gastronomicos ya que cuenta con 4 categorias internacionales en su menú, dando un total de 32 platillos para satisfacer los mejores paladares. Las categorias son:  
 
@@ -9,7 +12,11 @@ Y dentro de cada categoria podemos encontrar esquisitos platillos. En la siguien
 
 ![image](https://github.com/user-attachments/assets/391768a2-da93-46fe-b68b-b6715264b1e0)
 
-El platillo más económico en el menu es:
+El menú consta de los siguientes platillos de acuerdo a la categorías antes mencionadas. 
+
+![image](https://github.com/user-attachments/assets/730371ef-ab1d-46f0-999d-7db8cb8004ac)
+
+El platillo de menor precio en el menu es:
 
 ![image](https://github.com/user-attachments/assets/227b5e7d-0062-47a5-82ff-fb0f723e35e4)
 
@@ -29,6 +36,15 @@ El restaurante "Sabores del Mundo" ubicado en el centro de la ciudad de México,
 
 ![image](https://github.com/user-attachments/assets/0fb3aca4-2e76-4ded-966f-b3bf6f1c08a2)
 
+Sin embargo, en cuestion de ventas, los platillos asiaticos quedan en segundo termino, sindo la categoría Italiana que representa el 31% de las ventas. 
 
+![image](https://github.com/user-attachments/assets/f020e666-a506-49b6-b643-07d03b45791c)
 
+El promedio de pedidos por día son 136 platillos, sin embargo, hubo un pico considerable en febrero y marzo, llegando a 188 pedidos sin tener festejos por cumpleaños o promociones en dias fechas. 
+
+![image](https://github.com/user-attachments/assets/02c7332a-074a-4e52-83fb-f19735600761)
+
+A principios de año se lanzo una promocion por el día del cumpleañero, la cual consisitia en que el cumpleañero era "gratis" si llevaba 14 personas como invitados, y que tuvieran un consumo minimo de $5 dlls, esta promoción tuvo muy poca audiencia ya que solo se lograron 2 mesas en enero y 2 mas en febrero, en estos dos meses se pudo observar que la promocion no fue de tanto agrado para los comensales y cumpleañeros, por lo que se sugiere revisar nuevamente las promociones mensuales.
+
+![image](https://github.com/user-attachments/assets/51f3ad7f-13e9-4a12-84e5-3ddff0c4c018)
 
