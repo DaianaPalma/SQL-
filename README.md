@@ -1,6 +1,5 @@
 # Análisis correspondiente al caso práctico Restaurante "Sabores del Mundo"
 
-# Introducción. 
 
 El famoso "Restaurante del Mundo" fue ignagurado el 16 de marzo del año 2000, por un grupo de 4 chefs que deseaban juntar en un mismo lugar, famosos platillos de diferentes lugares del mundo, este resulto ser un éxito, sin embargo, se requiere un análisis ya que el cierre de ventas del año 2023 se vio un poco afectado, pues no se tuvieron los comensales y ventas esperadas, adicional, las promociones que se lanzaron no resultaron ser atractivas.
 
